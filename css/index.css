@@ -1,0 +1,22 @@
+body 
+{
+  backgorund: #f5f5f5
+}
+ h1 {
+  text-align: center
+ }
+ footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: red;
+  text-align: center;
+
+ }
+ #link {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+
+ }
